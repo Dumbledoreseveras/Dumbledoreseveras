@@ -34,11 +34,11 @@ Service Desk Engineer | IT Support Enthusiast | Python Developer | AI & ML Explo
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/asish-jana-91b8423a6)">
+<a href="https://www.linkedin.com/in/asish-jana-91b8423a6">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="YOUR-PORTFOLIO-LINK">
+<a href="https://dumbledoreseveras.github.io/Asish-Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox"/>
 </a>
 
@@ -88,7 +88,7 @@ Service Desk Engineer | IT Support Enthusiast | Python Developer | AI & ML Explo
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,linux,aws,azure,git,github,vscode,html,css,javascript,react,tensorflow,pytorch,opencv,fastapi&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,linux,aws,azure,git,github,vscode,html,css,tensorflow,pytorch,opencv,fastapi&perline=6"/>
 
 </p>
 
@@ -98,9 +98,9 @@ Service Desk Engineer | IT Support Enthusiast | Python Developer | AI & ML Explo
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dumbledoreseveras&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dumbledoreseveras&show_icons=true&theme=tokyonight" height="180em"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbledoreseveras&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbledoreseveras&layout=compact&theme=tokyonight" height="180em"/>
 
 </p>
 
@@ -109,7 +109,9 @@ Service Desk Engineer | IT Support Enthusiast | Python Developer | AI & ML Explo
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Dumbledoreseveras&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dumbledoreseveras&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -125,7 +127,9 @@ Service Desk Engineer | IT Support Enthusiast | Python Developer | AI & ML Explo
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dumbledoreseveras&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dumbledoreseveras&theme=tokyonight"/>
+
 </p>
 
 ---
