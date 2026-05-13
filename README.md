@@ -97,10 +97,10 @@ Service Desk Engineer | IT Support Enthusiast | Python Developer | AI & ML Explo
 # 📊 GitHub Stats
 
 <p align="center">
+  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dumbledoreseveras&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dumbledoreseveras&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbledoreseveras&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dumbledoreseveras&layout=compact&theme=radical" />
 
 </p>
 
